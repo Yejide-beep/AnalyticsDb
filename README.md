@@ -1,1 +1,1 @@
-# AnalyticsDb
+This Analytics db Project provides answers to critical business questions for the Millage Group 
